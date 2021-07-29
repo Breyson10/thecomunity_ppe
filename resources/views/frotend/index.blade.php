@@ -8,61 +8,11 @@
               <!-- SLIDE  -->
               <li data-delay="5000" data-masterspeed="600" data-slotamount="7" data-transition="fade">
                 <!-- MAIN IMAGE -->
-                <img src="http://placehold.it/1280x550&amp;text=IMAGE+PLACEHOLDER" alt="">
+                <img src="{{ asset('file_frotend/template/images/home_principal.jpg')}}" alt="">
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption customin customout label-danger number-block"
-                data-x="center"
-                data-hoffset="-33"
-                data-y="center"
-                data-voffset="-70"
-
-                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:141;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-
-                data-start="500"
-                data-speed="600"
-                data-easing="Linear.easeNone"
-
-                data-endspeed="600"
-                data-endeasing="Linear.easeNone"
-                >3
-            </div>
-                <div class="tp-caption customin customout label-danger number-block"
-                      data-x="center"
-                      data-hoffset="-33"
-                      data-y="center"
-                      data-voffset="-70"
-
-                      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:141;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                      data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-
-                      data-start="500"
-                      data-speed="600"
-                      data-easing="Linear.easeNone"
-
-                      data-endspeed="600"
-                      data-endeasing="Linear.easeNone"
-                      >3
-                  </div>
                   <!-- LAYER NR. 2 -->
-                <div class="tp-caption customin customout label-danger number-block"
-                      data-x="center"
-                      data-hoffset="33"
-                      data-y="center"
-                      data-voffset="-70"
 
-                      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:141;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                      data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-
-                      data-start="800"
-                      data-speed="600"
-                      data-easing="Linear.easeNone"
-
-                      data-endspeed="600"
-                      data-endeasing="Linear.easeNone"
-                      >6
-                  </div>
                 <!-- LAYER NR. 3 -->
                   <div class="tp-caption text-align-center h2 sfr whiter tp-resizeme"
                       data-x="center"
@@ -88,11 +38,9 @@
                       <a href="join.html" class="btn btn-lg btn-default">PPE</a>
                   </div>
               </li>
-              <!-- SLIDE  -->
+              <!-- SLIDE
               <li data-delay="5000" data-masterspeed="600" data-slotamount="7" data-transition="fade">
-                <!-- MAIN IMAGE -->
                 <img src="http://placehold.it/1280x550&amp;text=IMAGE+PLACEHOLDER" alt="">
-                <!-- LAYER NR. 1 -->
                   <div class="tp-caption sfr whiter h4 tp-resizeme"
                       data-x="right"
                       data-hoffset="-15"
@@ -104,7 +52,6 @@
                       data-endspeed="300">
                       Lives
                   </div>
-                <!-- LAYER NR. 2 -->
                   <div class="tp-caption sfr whiter h2 tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -116,7 +63,6 @@
                       data-endspeed="300">
                       is the power
                   </div>
-                  <!-- LAYER NR. 3 -->
                   <div class="tp-caption customin whiter customout tp-resizeme"
                       data-x="right"
                         data-hoffset="-20"
@@ -132,7 +78,6 @@
                       data-endeasing="Linear.easeNone"
                       ><hr class="md">
                   </div>
-                  <!-- LAYER NR. 4 -->
                   <div class="tp-caption sfr whiter para text-align-right tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -144,7 +89,6 @@
                       data-endspeed="300">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Nulla convallis egestas rhoncus. Donec facilisis fermentum<br>sem, ac viverra ante luctus vel.
                   </div>
-                <!-- LAYER NR. 5 -->
                   <div class="tp-caption sfr whiter tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -157,11 +101,9 @@
                       <a href="donate.html" class="btn btn-lg btn-default">Support</a>
                   </div>
               </li>
-              <!-- SLIDE  -->
+
               <li data-delay="5000" data-masterspeed="600" data-slotamount="7" data-transition="fade">
-                <!-- MAIN IMAGE -->
                 <img src="http://placehold.it/1280x550&amp;text=IMAGE+PLACEHOLDER" alt="">
-                <!-- LAYER NR. 1 -->
                   <div class="tp-caption sfr whiter h4 tp-resizeme"
                       data-x="right"
                       data-hoffset="-15"
@@ -173,7 +115,6 @@
                       data-endspeed="300">
                       Water
                   </div>
-                <!-- LAYER NR. 2 -->
                   <div class="tp-caption sfr whiter h2 tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -185,7 +126,6 @@
                       data-endspeed="300">
                       for everyone
                   </div>
-                  <!-- LAYER NR. 3 -->
                   <div class="tp-caption customin whiter customout tp-resizeme"
                       data-x="right"
                         data-hoffset="-20"
@@ -201,7 +141,6 @@
                       data-endeasing="Linear.easeNone"
                       ><hr class="md">
                   </div>
-                  <!-- LAYER NR. 4 -->
                   <div class="tp-caption sfr whiter para text-align-right tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -213,7 +152,6 @@
                       data-endspeed="300">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Nulla convallis egestas rhoncus. Donec facilisis fermentum<br>sem, ac viverra ante luctus vel.
                   </div>
-                <!-- LAYER NR. 5 -->
                   <div class="tp-caption sfr whiter tp-resizeme"
                       data-x="right"
                       data-hoffset="-20"
@@ -226,6 +164,7 @@
                       <a href="donate.html" class="btn btn-lg btn-default">Give help</a>
                   </div>
               </li>
+            -->
             </ul>
           </div>
       </div>

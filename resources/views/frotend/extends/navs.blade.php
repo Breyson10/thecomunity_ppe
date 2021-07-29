@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="upcoming-event-bar">
-                        <h4><i class="fa fa-calendar"></i> Next Event</h4>
+                        <h4><i class="fa fa-calendar"></i> Proximo Evento</h4>
 
                         <div id="counter" class="counter" data-date="July 13, 2015">
                              <div class="timer-col"> <span id="days"></span> <span class="timer-type">d</span> </div>
@@ -17,8 +17,8 @@
                 </div>
                 <div class="col-md-6">
                     <ul class="top-menu">
-                        <li><a href="donate.html">Donate Now</a></li>
-                        <li class="secondary"><a href="join.html">Join Us</a></li>
+                        <li><a href="donate.html">Haz tu donación</a></li>
+                        <li class="secondary"><a href="join.html">Unete Ahora</a></li>
                     </ul>
                     <ul class="social-links social-links-lighter">
                         <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
@@ -40,7 +40,7 @@
                   <ul class="sf-menu">
                        <li><a href="index.html">Home</a>
                          <ul>
-                               <li><a href="index-nivoslider.html">Home NivoSlider</a></li>
+                               <li><a href="index-nivoslider.html">Home</a></li>
                             <li><a href="index-flexslider.html">Home FlexSlider</a></li>
                             <li><a href="javascript:void(0)">Header Styles <span class="label label-warning">New</span></a>
                                  <ul>
@@ -50,7 +50,19 @@
                               </li>
                         </ul>
                      </li>
-                      <li><a href="about.html">Pages</a>
+                     <li><a href="projects.html">Live</a>
+                        <ul>
+                            <li><a href="projects.html">Projects List</a></li>
+                            <li><a href="projects-grid.html">Projects Grid</a>
+                                <ul>
+                                    <li><a href="projects-grid.html">w/o Sidebar</a></li>
+                                    <li><a href="projects-grid-sidebar.html">With Sidebar</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="single-project.html">Single Project</a></li>
+                        </ul>
+                    </li>
+                      <li><a href="about.html">Comunidad</a>
                         <ul>
                             <li><a href="about.html">About Us</a></li>
                             <li><a href="gallery-3cols-filter.html">Gallery</a>
@@ -76,7 +88,7 @@
                             <li><a href="shortcodes.html">Shortcodes</a></li>
                         </ul>
                     </li>
-                    <li><a href="events.html">Events</a>
+                  <!--  <li><a href="events.html">Quienes somos</a>
                         <ul>
                             <li><a href="events.html">Events List</a></li>
                             <li><a href="events-calendar.html">Events Calendar</a></li>
@@ -89,20 +101,9 @@
                             </li>
                             <li><a href="single-event.html">Single Event</a></li>
                         </ul>
-                    </li>
-                    <li><a href="projects.html">Projects</a>
-                        <ul>
-                            <li><a href="projects.html">Projects List</a></li>
-                            <li><a href="projects-grid.html">Projects Grid</a>
-                                <ul>
-                                    <li><a href="projects-grid.html">w/o Sidebar</a></li>
-                                    <li><a href="projects-grid-sidebar.html">With Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="single-project.html">Single Project</a></li>
-                        </ul>
-                    </li>
-                    <li class="megamenu"><a href="shortcodes.html">Mega Menu</a>
+                    </li>-->
+
+                    <li class="megamenu"><a href="shortcodes.html">Quienes somos</a>
                       <ul class="dropdown">
                         <li>
                           <div class="megamenu-container container">
@@ -140,7 +141,7 @@
                             <li><a href="blog-post.html">Single Post</a></li>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact.html">Contacto</a></li>
                 </ul>
             </nav>
             <!-- Mobile Menu Trigger Icon -->

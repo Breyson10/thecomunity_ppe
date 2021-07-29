@@ -12,6 +12,23 @@
 
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption customin customout label-danger number-block"
+                data-x="center"
+                data-hoffset="-33"
+                data-y="center"
+                data-voffset="-70"
+
+                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:141;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+
+                data-start="500"
+                data-speed="600"
+                data-easing="Linear.easeNone"
+
+                data-endspeed="600"
+                data-endeasing="Linear.easeNone"
+                >3
+            </div>
+                <div class="tp-caption customin customout label-danger number-block"
                       data-x="center"
                       data-hoffset="-33"
                       data-y="center"
@@ -26,7 +43,7 @@
 
                       data-endspeed="600"
                       data-endeasing="Linear.easeNone"
-                      >9
+                      >3
                   </div>
                   <!-- LAYER NR. 2 -->
                 <div class="tp-caption customin customout label-danger number-block"
@@ -56,7 +73,7 @@
                       data-start="1800"
                       data-easing="Back.easeInOut"
                       data-endspeed="300">
-                      number of elephants<br>killed every day in Africa.
+                      Comunidad<br>Picante pero edificante.
                   </div>
                 <!-- LAYER NR. 4 -->
                   <div class="tp-caption fade whiter tp-resizeme"
@@ -68,7 +85,7 @@
                       data-start="2800"
                       data-easing="Back.easeInOut"
                       data-endspeed="300">
-                      <a href="join.html" class="btn btn-lg btn-default">Save them</a>
+                      <a href="join.html" class="btn btn-lg btn-default">PPE</a>
                   </div>
               </li>
               <!-- SLIDE  -->
@@ -85,7 +102,7 @@
                       data-start="500"
                       data-easing="Back.easeInOut"
                       data-endspeed="300">
-                      Green
+                      Lives
                   </div>
                 <!-- LAYER NR. 2 -->
                   <div class="tp-caption sfr whiter h2 tp-resizeme"

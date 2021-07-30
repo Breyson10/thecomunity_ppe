@@ -12,6 +12,8 @@
   ================================================== -->
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 <meta name="format-detection" content="telephone=no">
+<link rel="icon" type="image/png" href="{{ asset('file_frotend/template/images/logo-ico.jpg') }}">
+
 <!-- CSS
   ================================================== -->
 <link href="/file_frotend/Template/css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -26,7 +28,7 @@
 <!-- Color Style -->
 <link href="/file_frotend/Template/colors/color1.css" rel="stylesheet" type="text/css">
 <!-- SCRIPTS
-  ================================================== -->
+  ================================================== fav
 <script src="/file_frotend/Template/js/modernizr.js"></script><!-- Modernizr -->
 </head>
 <body class="home">
